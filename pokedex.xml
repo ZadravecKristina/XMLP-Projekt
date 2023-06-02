@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex>
+
+    <pokemon ndex="0001">
+        <name>Bulbasaur</name>
+        <category>Seed Pokémon</category>
+        <type>Grass / Poison</type>
+        <ability>Overgrow</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/bulbasaur.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0004">
+        <name>Charmander</name>
+        <category>Lizard Pokémon</category>
+        <type>Fire</type>
+        <ability>Blaze</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/charmander.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0007">
+        <name>Squirtle</name>
+        <category>Tiny Turtle Pokémon</category>
+        <type>Water</type>
+        <ability>Torrent</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/squirtle.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0025">
+        <name>Pikachu</name>
+        <category>Mouse Pokémon</category>
+        <type>Electric</type>
+        <ability>Static</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/pikachu.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0133">
+        <name>Eevee</name>
+        <category>Evolution Pokémon</category>
+        <type>Normal</type>
+        <ability>Run Away or Adaptability</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/eevee.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0134">
+        <name>Vaporeon</name>
+        <category>Bubble Jet Pokémon</category>
+        <type>Water</type>
+        <ability>Water Absorb</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/vaporeon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0135">
+        <name>Jolteon</name>
+        <category>Lightning Pokémon</category>
+        <type>Electric</type>
+        <ability>Volt Absorb</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/jolteon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0136">
+        <name>Flareon</name>
+        <category>Flame Pokémon</category>
+        <type>Fire</type>
+        <ability>Flash Fire</ability>
+        <generation>1</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/flareon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0196">
+        <name>Espeon</name>
+        <category>Sun Pokémon</category>
+        <type>Psychic</type>
+        <ability>Synchronize</ability>
+        <generation>2</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/espeon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0197">
+        <name>Umbreon</name>
+        <category>Moonlight Pokémon</category>
+        <type>Dark</type>
+        <ability>Synchronize</ability>
+        <generation>2</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/umbreon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0248">
+        <name>Tyranitar</name>
+        <category>Armor Pokémon</category>
+        <type>Rock / Dark</type>
+        <ability>Sand Stream</ability>
+        <generation>2</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/tyranitar.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0330">
+        <name>Flygon</name>
+        <category>Mystic Pokémon</category>
+        <type>Ground / Dragon</type>
+        <ability>Levitate</ability>
+        <generation>3</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/flygon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0350">
+        <name>Milotic</name>
+        <category>Tender Pokémon</category>
+        <type>Water</type>
+        <ability>Marvel Scale or Competitive</ability>
+        <generation>3</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/milotic.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0385">
+        <name>Jirachi</name>
+        <category>Wish Pokémon</category>
+        <type>Steel / Psychic</type>
+        <ability>Serene Grace</ability>
+        <generation>3</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/jirachi.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0448">
+        <name>Lucario</name>
+        <category>Aura Pokémon</category>
+        <type>Fighting / Steel</type>
+        <ability>Steadfast or Inner Focus</ability>
+        <generation>4</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/lucario.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0470">
+        <name>Leafeon</name>
+        <category>Verdant Pokémon</category>
+        <type>Grass</type>
+        <ability>Leaf Guard</ability>
+        <generation>4</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/leafeon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0471">
+        <name>Glaceon</name>
+        <category>Fresh Snow Pokémon</category>
+        <type>Ice</type>
+        <ability>Snow Cloak</ability>
+        <generation>4</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/glaceon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0637">
+        <name>Volcarona</name>
+        <category>Sun Pokémon</category>
+        <type>Bug / Fire</type>
+        <ability>Flame Body</ability>
+        <generation>5</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/volcarona.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0643">
+        <name>Reshiram</name>
+        <category>Vast White Pokémon</category>
+        <type>Dragon / Fire</type>
+        <ability>Turboblaze</ability>
+        <generation>5</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/reshiram.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0644">
+        <name>Zekrom</name>
+        <category>Deep Black Pokémon</category>
+        <type>Dragon / Electric</type>
+        <ability>Teravolt</ability>
+        <generation>5</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/zekrom.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0661">
+        <name>Fletchling</name>
+        <category>Tiny Robin Pokémon</category>
+        <type>Normal / Flying</type>
+        <ability>Big Pecks</ability>
+        <generation>6</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/fletchling.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0699">
+        <name>Aurorus</name>
+        <category>Tundra Pokémon</category>
+        <type>Rock / Ice</type>
+        <ability>Refrigerate</ability>
+        <generation>6</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/aurorus.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0700">
+        <name>Sylveon</name>
+        <category>Intertwining Pokémon</category>
+        <type>Fairy</type>
+        <ability>Cute Charm</ability>
+        <generation>6</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/sylveon.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0724">
+        <name>Decidueye</name>
+        <category>Arrow Quill Pokémon</category>
+        <type>Grass / Ghost</type>
+        <ability>Overgrow</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/decidueye.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0745">
+        <name>Lycanroc (Midday Form)</name>
+        <category>Wolf Pokémon</category>
+        <type>Rock</type>
+        <ability>Keen Eye or Sand Rush</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/lycanroc-midday.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0745">
+        <name>Lycanroc (Midnight Form)</name>
+        <category>Wolf Pokémon</category>
+        <type>Rock</type>
+        <ability>Keen Eye or Vital Spirit</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/lycanroc-midnight.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0778">
+        <name>Mimikyu</name>
+        <category>Disguise Pokémon</category>
+        <type>Ghost / Fairy</type>
+        <ability>Disguise</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/mimikyu.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0791">
+        <name>Solgaleo</name>
+        <category>Sunne Pokémon</category>
+        <type>Psychic / Steel</type>
+        <ability>Full Metal Body</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/solgaleo.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0792">
+        <name>Lunala</name>
+        <category>Moone Pokémon</category>
+        <type>Psychic / Ghost</type>
+        <ability>Shadow Shield</ability>
+        <generation>7</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/lunala.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0832">
+        <name>Dubwool</name>
+        <category>Sheep Pokémon</category>
+        <type>Normal</type>
+        <ability>Fluffy or Steadfast</ability>
+        <generation>8</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/dubwool.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0888">
+        <name>Zacian (Crowned Sword)</name>
+        <category>Warrior Pokémon</category>
+        <type>Fairy / Steel</type>
+        <ability>Intrepid Sword</ability>
+        <generation>8</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/zacian-crowned.png</sprite>
+    </pokemon>
+
+    <pokemon ndex="0889">
+        <name>Zamazenta (Crowned Shield)</name>
+        <category>Warrior Pokémon</category>
+        <type>Fighting / Steel</type>
+        <ability>Dauntless Shield</ability>
+        <generation>8</generation>
+        <sprite>https://img.pokemondb.net/sprites/sword-shield/normal/zamazenta-crowned.png</sprite>
+    </pokemon>
+
+</pokedex>
